@@ -1,0 +1,3 @@
+ParterApiAssessment:
+  PartnerApiBaseUri: "https://partnerapi.funda.nl/feeds/Aanbod.svc/json/"
+  PartnerApiAuthToken: "<secret not set>" # Obviously we dont want secrets in our code
