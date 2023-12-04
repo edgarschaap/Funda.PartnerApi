@@ -2,6 +2,8 @@
 
 This repository contains the assessment for Funda. It uses the Funda
 Partner Api to retrieve all objects searched by specific search keys.
+Then it uses the data to determine the top 10 realtors for search keys 
+`Amsterdam` and `Amsterdam | Tuin`.
 
 # Structure
 
