@@ -33,6 +33,7 @@ Please do read the documentation provided there as well =)
 # Usage
 
 - Find the `settings.yaml` in `Host.Console` project and add the auth token
+    - Another way is setting the `ParterApiAssessment:PartnerApiAuthToken` Environment variable
 - Execute `Host.Console` 
 - When console window prompts for entry
   - Pick 1. for top 10 realtors for search key `Amsterdam`
